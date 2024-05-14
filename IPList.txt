@@ -35,6 +35,9 @@
 35.205.159.124
 50.31.21.8
 
+#Case #47 Symantec Attack Activity
+38.180.160.170
+
 
 
 
