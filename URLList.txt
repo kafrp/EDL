@@ -2,3 +2,6 @@
 #
 # https://docs.paloaltonetworks.com/advanced-url-filtering/administration/configuring-url-filtering/url-category-exceptions/guidelines-for-url-category-exceptions
 ########################################
+
+#Case #66 Symantec Attack Activity
+http://uiu97.courses2024.com
