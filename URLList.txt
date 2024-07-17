@@ -4,7 +4,7 @@
 ########################################
 
 #Case #66 Symantec Attack Activity
-http://uiu97.courses2024.com
+uiu97.courses2024.com
 #SmokLeaderThreat
 
 http://mightys.at
